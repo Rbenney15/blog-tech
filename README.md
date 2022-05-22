@@ -24,4 +24,5 @@ To run the application you will need to do the following:
 
 # Questions
 * GitHub url where the project is located: https://github.com/Rbenney15/blog-tech.git
+* Deployed application: https://git.heroku.com/ancient-brushlands-75623.git
 * If you have any questions, please feel free to reach me at: Rob.benney@gmail.com
