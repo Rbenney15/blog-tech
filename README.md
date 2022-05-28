@@ -14,6 +14,11 @@ This project is a CMS-style blog site. Giving developers the opportunity to publ
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Screenshot
+Homepage screenshot
+<img width="1696" alt="homepage" src="https://user-images.githubusercontent.com/98703735/170832688-696c13ef-ecdf-44e4-92be-cf395cc3557a.png">
+
+User-dashboard when user is logged in
+<img width="1695" alt="user_dashboard" src="https://user-images.githubusercontent.com/98703735/170832697-b58b33d8-6d63-44a4-bbd9-d882435a5c88.png">
 
 # Usage
 To run the application you will need to do the following:
