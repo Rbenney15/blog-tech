@@ -24,8 +24,8 @@ User-dashboard when user is logged in
 To run the application you will need to do the following:
 * Install all appropriate npm packages
 * Run test - npm run test
-* Seed the DB - npm run seed
-* Start the server - npm start server
+* Seed the DB - node seeds/index.js
+* Start the server - node server
 
 # Questions
 * GitHub url where the project is located: https://github.com/Rbenney15/blog-tech.git
