@@ -14,11 +14,15 @@ This project is a CMS-style blog site. Giving developers the opportunity to publ
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Screenshot
-Homepage screenshot
-<img width="1696" alt="homepage" src="https://user-images.githubusercontent.com/98703735/170832688-696c13ef-ecdf-44e4-92be-cf395cc3557a.png">
+Homepage
+<img width="1356" alt="homepage" src="https://user-images.githubusercontent.com/98703735/212230529-497614d0-129a-47cb-a095-1fbdb596fcaf.png">
+
 
 User-dashboard when user is logged in
-<img width="1695" alt="user_dashboard" src="https://user-images.githubusercontent.com/98703735/170832697-b58b33d8-6d63-44a4-bbd9-d882435a5c88.png">
+<img width="1356" alt="userdash" src="https://user-images.githubusercontent.com/98703735/212230549-744f4289-b47d-4271-bf60-aedc1fcf52f1.png">
+
+Create New Blog Post
+<img width="1356" alt="createnewpost" src="https://user-images.githubusercontent.com/98703735/212230591-4f70e7ae-c62d-4a5f-852c-109c06e262c0.png">
 
 # Usage
 To run the application you will need to do the following:
@@ -29,5 +33,4 @@ To run the application you will need to do the following:
 
 # Questions
 * GitHub url where the project is located: https://github.com/Rbenney15/blog-tech.git
-* Deployed application: https://ancient-brushlands-75623.herokuapp.com
-* If you have any questions, please feel free to reach me at: Rob.benney@gmail.com
+* Deployed application: https://techblogrbgwu.herokuapp.com/
